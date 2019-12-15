@@ -1,0 +1,277 @@
+{
+"courses":[
+      {
+        "title": "software application",
+        "code": "CUS 1102",
+        "instructor": "Lander Lugo, Glenda",
+        "day": "TF, 1700-1825",
+        "seats": "12",
+        "type": "Lecture"
+      },
+      {
+        "title": "software application",
+        "code": "CUS 1102",
+        "instructor": "Felicetti, Robert Alvaro",
+        "day": "TF, 1215-1340",
+        "seats": "5",
+        "type": "Lecture"
+      },
+      {
+        "title": "software application",
+        "code": "CUS 1102",
+        "instructor": "Felicetti, Robert Alvaro",
+        "day": "TF, 1525-1650",
+        "seats": "15",
+        "type": "Lecture"
+      },
+      {
+        "title": "software application",
+        "code": "CUS 1102",
+        "instructor": "Lieberman, Barry",
+        "day": "TF, 1350-1515",
+        "seats": "21",
+        "type": "Lecture"
+      },
+      {
+        "title": "computer prog fund I",
+        "code": "CUS 1115",
+        "instructor": "DeBello, Joan",
+        "day": "MR, 0905-1030",
+        "seats": "04",
+        "type": "Lecture"
+      },
+      {
+        "title": "computer prog I",
+        "code": "CUS 1115",
+        "instructor": "Fluture, Simina",
+        "day": "W, 1040-1330",
+        "seats": "09",
+        "type": "Lecture"
+      },
+      {
+        "title": "computer prog II",
+        "code": "CUS 1116",
+        "instructor": "Debello, Joan",
+        "day": "MR, 1040-1205",
+        "seats": "11",
+        "type": "Lecture"
+      },
+      {
+        "title": "computer prog II",
+        "code": "CUS 1116",
+        "instructor": "Tsai, Roger",
+        "day": "TF, 1350-1515",
+        "seats": "14",
+        "type": "Lecture"
+      },
+      {
+        "title": "fundamentals of cyber security",
+        "code": "CSS 1005",
+        "instructor": "Otero, Juan",
+        "day": "W, 1910-2200",
+        "seats": "10",
+        "type": "Lecture"
+      },
+      {
+        "title": "mgt of information security",
+        "code": "CSS 1006",
+        "instructor": "Dick, Geoffrey",
+        "day": "MR, 1040-1205",
+        "seats": "14",
+        "type": "Lecture"
+      },
+      {
+        "title": "healthcare info security",
+        "code": "CSS 1008",
+        "instructor": "Naseem, Sajed",
+        "day": "W, 1700-1825",
+        "seats": "03",
+        "type": "Lecture"
+      },
+      {
+        "title": "network security",
+        "code": "CSS 1011",
+        "instructor": "Schmeelk, Suzanna",
+        "day": "T, 1350-1515",
+        "seats": "13",
+        "type": "Lecture"
+      },
+      {
+        "title": "wireless security",
+        "code": "CSS 1015",
+        "instructor": "Schmeelk, Suzanna",
+        "day": "M, 0905-1030",
+        "seats": "16",
+        "type": "Lecture"
+      },
+      {
+        "title": "cyber threats and detection",
+        "code": "CSS 1032",
+        "instructor": "Otero, Juan",
+        "day": "M, 1215-1340",
+        "seats": "04",
+        "type": "Lecture"
+      },
+      {
+        "title": "healthcare info & data mgt",
+        "code": "HCI 1002",
+        "instructor": "Bukhari, Syed",
+        "day": "TF, 1215-1340",
+        "seats": "14",
+        "type": "Online"
+      },
+      {
+        "title": "healthcare database mgt sys",
+        "code": "HCI 1021",
+        "instructor": "Bukhari, Syed",
+        "day": "W, 1040-1330",
+        "seats": "11",
+        "type": "Online"
+      },
+      {
+        "title": "info technology for business",
+        "code": "IT 1011",
+        "instructor": "Dick, Geoffrey",
+        "day": "MR, 0730-0855",
+        "seats": "15",
+        "type": "Lab"
+      },
+      {
+        "title": "intro to college math I",
+        "code": "MTH 1003",
+        "instructor": "Achtziger, Joseph",
+        "day": "TF, 1215-1340",
+        "seats": "04",
+        "type": "Lecture"
+      },
+      {
+        "title": "intro to college math I",
+        "code": "MTH 1003",
+        "instructor": "Malone, William",
+        "day": "TF, 1700-1825",
+        "seats": "09",
+        "type": "Lecture"
+      },
+      {
+        "title": "intro to college math I",
+        "code": "MTH 1003",
+        "instructor": "Henry, Maureen",
+        "day": "W, 1910-2200",
+        "seats": "03",
+        "type": "Lecture"
+      },
+      {
+        "title": "intro to college math I",
+        "code": "MTH 1003",
+        "instructor": "Cerulli, Janet",
+        "day": "MR, 1215-1340",
+        "seats": "16",
+        "type": "Lecture"
+      },
+      {
+        "title": "intro to college math II",
+        "code": "MTH 1004",
+        "instructor": "Laneri, Peter",
+        "day": "TF, 1040-1205",
+        "seats": "02",
+        "type": "Lecture"
+      },
+      {
+        "title": "college algebra & trigonometry",
+        "code": "MTH 1007",
+        "instructor": "Manley, Michael",
+        "day": "TF, 1040-1205",
+        "seats": "03",
+        "type": "Lecture"
+      },
+      {
+        "title": "college algebra & trigonometry",
+        "code": "MTH 1007",
+        "instructor": "Laneri, Peter",
+        "day": "TF, 0905-1030",
+        "seats": "06",
+        "type": "Lecture"
+      },
+      {
+        "title": "matrix methods",
+        "code": "MTH 1008",
+        "instructor": "Laneri, Peter",
+        "day": "TF, 0905-1030",
+        "seats": "12",
+        "type": "Lecture"
+      },
+      {
+        "title": "matrix methods",
+        "code": "MTH 1008",
+        "instructor": "Laneri, Peter",
+        "day": "TF, 0730-0855",
+        "seats": "20",
+        "type": "Lecture"
+      },
+      {
+        "title": "calculus I",
+        "code": "MTH 1009",
+        "instructor": "Elmrini, Abdel Aziz",
+        "day": "MR, 1525-1650",
+        "seats": "08",
+        "type": "Lecture"
+      },
+      {
+        "title": "calculus I",
+        "code": "MTH 1009",
+        "instructor": "Vaisfeld, Michael",
+        "day": "TF, 1525-1650",
+        "seats": "07",
+        "type": "Lecture"
+      },
+      {
+        "title": "calculus I",
+        "code": "MTH 1009",
+        "instructor": "Elmrini, Abdel Aziz",
+        "day": "TF, 1525-1650",
+        "seats": "18",
+        "type": "Lecture"
+      },
+      {
+        "title": "calculus I",
+        "code": "MTH 1009",
+        "instructor": "Cerulli, Thomas",
+        "day": "MR, 1215-1340",
+        "seats": "04",
+        "type": "Lecture"
+      },
+      {
+        "title": "calculus II",
+        "code": "MTH 1010",
+        "instructor": "Servas, Frank",
+        "day": "W, 0730-1020",
+        "seats": "13",
+        "type": "Lecture"
+      },
+      {
+        "title": "calculus II",
+        "code": "MTH 1010",
+        "instructor": "Latzman, Gerald",
+        "day": "TF, 1040-1205",
+        "seats": "04",
+        "type": "Lecture"
+      },
+      {
+        "title": "introduction to networks",
+        "code": "NET 1011",
+        "instructor": "Greenidge, Maxine",
+        "day": "W, 1040-1330",
+        "seats": "14",
+        "type": "Lecture"
+      },
+      {
+        "title": "routing & switching essentials",
+        "code": "NET 1015",
+        "instructor": "Greenidge, Maxine",
+        "day": "W, 0730-1020",
+        "seats": "05",
+        "type": "Lecture"
+      }
+
+]
+}

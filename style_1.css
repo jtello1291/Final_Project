@@ -1,0 +1,13 @@
+body{
+  background-color: lightgrey;
+}
+
+.form{
+  padding-left: 15px;
+}
+
+#bar{
+  background-color: white;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
